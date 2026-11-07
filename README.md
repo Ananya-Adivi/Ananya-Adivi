@@ -1,27 +1,24 @@
-# Hi there, I'm Ananya Adivi! 👋
+# Hi, I'm Ananya Adivi! 👋
 
-![Typing SVG](https://demolab.com)
+> **Software Developer | Problem Solver | Tech Enthusiast**
 
 ---
 
 ### 💻 About Me
 - 🎓 Passionate developer working on interesting software solutions.
 - 🚀 Exploring Python, Machine Learning, and Web Technologies.
-- 🛠️ Check out my **Face-Mask-Detection-System** and **BiTnHuild---The-Carnival** repositories below!
+- 🛠️ Check out my core repositories:
+  - [Face-Mask-Detection-System](https://github.com) — *An automated computer vision tool built using Jupyter Notebooks.*
+  - [BiTnHuild---The-Carnival](https://github.com) — *A patient-centric healthcare intake system.*
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-![Python](https://shields.io) ![JavaScript](https://shields.io) ![HTML5](https://shields.io) ![Jupyter](https://shields.io)
-
----
-
-### 📊 My GitHub Stats
-![Ananya's GitHub Stats](https://vercel.app)
-
-![Top Languages](https://vercel.app)
+- **Languages:** Python, JavaScript, HTML5, SQL
+- **Tools & Environments:** Jupyter Notebook, Git, GitHub
 
 ---
 
 ### 🤝 Connect with Me
-[![LinkedIn](https://shields.io)]([https://linkedin.com](ananya-adivi-aa2023270/))
+- 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)(ananya-adivi-aa2023270/)
+- 📬 **Email:** `ananya.adivi@gmail.com`
