@@ -20,5 +20,5 @@
 ---
 
 ### 🤝 Connect with Me
-- 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)(ananya-adivi-aa2023270/)
+- 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)(ananya-adivi-aa2023270/)]
 - 📬 **Email:** `ananya.adivi@gmail.com`
