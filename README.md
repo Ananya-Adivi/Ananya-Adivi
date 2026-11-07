@@ -1,8 +1,6 @@
 # Hi there, I'm Ananya Adivi! 👋
 
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
+![Typing SVG](https://demolab.com)
 
 ---
 
@@ -14,30 +12,16 @@
 ---
 
 ### 🛠️ Tech Stack & Skills
-<p align="left">
-  <!-- Python -->
-  <img src="https://shields.io" alt="Python" />
-  <!-- JavaScript -->
-  <img src="https://shields.io" alt="JavaScript" />
-  <!-- HTML5 -->
-  <img src="https://shields.io" alt="HTML5" />
-  <!-- Jupyter -->
-  <img src="https://shields.io" alt="Jupyter" />
-</p>
+![Python](https://shields.io) ![JavaScript](https://shields.io) ![HTML5](https://shields.io) ![Jupyter](https://shields.io)
 
 ---
 
 ### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://vercel.app" alt="Ananya's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
+![Ananya's GitHub Stats](https://vercel.app)
+
+![Top Languages](https://vercel.app)
 
 ---
 
 ### 🤝 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-</p>
+[![LinkedIn](https://shields.io)](https://linkedin.com)
