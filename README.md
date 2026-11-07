@@ -24,4 +24,4 @@
 ---
 
 ### 🤝 Connect with Me
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![LinkedIn](https://shields.io)]([https://linkedin.com](ananya-adivi-aa2023270/))
